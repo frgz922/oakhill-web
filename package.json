@@ -1,0 +1,44 @@
+{
+    "name": "maxcoach-vue",
+    "version": "1.0.0",
+    "author": "uzzal",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.13.6",
+        "@nuxtjs/style-resources": "^1.0.0",
+        "aos": "^2.3.4",
+        "bootstrap": "^4.5.2",
+        "bootstrap-vue": "^2.21.2",
+        "chart.js": "^3.5.0",
+        "core-js": "^3.6.5",
+        "jquery": "^3.6.0",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "nuxt": "^2.14.5",
+        "parallax-js": "^3.1.0",
+        "qs": "^6.10.1",
+        "rellax": "^1.12.1",
+        "swiper": "^5.3.7",
+        "vue-awesome-swiper": "^4.1.0",
+        "vue-backtotop": "^1.6.1",
+        "vue-form-generator": "^2.3.4",
+        "vue-fragment": "^1.5.2",
+        "vue-select": "^3.10.8",
+        "vue-silentbox": "^2.2.0",
+        "vue-typed-js": "^0.1.2",
+        "vue2-google-maps": "^0.10.7",
+        "vuejs-paginate": "^2.1.0"
+    },
+    "devDependencies": {
+        "node-sass": "^4.14.1",
+        "sass": "^1.26.11",
+        "sass-loader": "^10.0.2",
+        "webpack": "^4.44.2"
+    }
+}

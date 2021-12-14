@@ -1,0 +1,25 @@
+.views-and-insights-container {
+  margin: 0 75px;
+  .article-info {
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;  
+  }
+  .article-type {
+    font-size: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+  .article-desc {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+}

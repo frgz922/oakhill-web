@@ -1,0 +1,115 @@
+{
+    "coursePostItem": [
+        {
+            "id": 1,
+            "image": "/images/demo/ubsoconner.png",
+            "date": "Jan 15, 2020",
+            "price": "$1M",
+            "title": "Nineteen 77 Global Merger Arbitrage",
+            "lessons": "20 Lessons",
+            "students": "51 Students",
+            "avatar": "/images/demo/ubsoconner.png",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 2,
+            "image": "/images/demo/ubsoconner.png",
+            "date": "Jun 18, 2020",
+            "price": "Free",
+            "title": "UBS Global Real Estate Fund",
+            "lessons": "40 Lessons",
+            "students": "80 Students",
+            "avatar": "/images/demo/ubsoconner.png",
+            "instructorName": "Blanche Fields"
+        }
+    ],
+
+    "sidebar": {
+        "price": {
+            "icon": "far fa-money-bill-wave",
+            "label": "Price",
+            "value": "Free"
+        },
+        "instructor": {
+            "icon": "far fa-chalkboard-teacher",
+            "label": "Instructor",
+            "value": "Maggie Strickland"
+        },
+        "duration": {
+            "icon": "far fa-clock",
+            "label": "Duration",
+            "value": "15 weeks"
+        },
+        "lectures": {
+            "icon": "far fa-clock",
+            "label": "Lectures",
+            "value": "24"
+        },
+        "enrolled": {
+            "icon": "far fa-user-alt",
+            "label": "Enrolled",
+            "value": "629 students"
+        },
+        "Language": {
+            "icon": "far fa-language",
+            "label": "Language",
+            "value": "English"
+        },
+        "Deadline": {
+            "icon": "far fa-calendar",
+            "label": "Deadline",
+            "value": "05 Jan 2019"
+        },
+        "socialLink": [
+            {
+                "icon": "fab fa-twitter",
+                "url": "www.twitter.com"
+            },
+            {
+                "icon": "fab fa-facebook-f",
+                "url": "www.facebook.com"
+            },
+            {
+                "icon": "fab fa-instagram",
+                "url": "www.instagram.com"
+            },
+            {
+                "icon": "fab fa-pinterest",
+                "url": "www.pinterest.com"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "url": "www.youtube.com"
+            }
+        ]
+    },
+    
+    "instructor": {
+        "name": "Maggie Strickland",
+        "position": "Advanced Educator",
+        "text": "Maggie is a brilliant educator, whose life was spent for computer science and love of nature. Being a female, she encountered a lot of obstacles and was forbidden to work in this field by her family. With a true spirit and talented gift, she was able to succeed and set an example for others.",
+        "imgSrc": "/images/profile/profile.jpeg",
+        "socialLink": [
+            {
+                "icon": "fab fa-twitter",
+                "url": "www.twitter.com"
+            },
+            {
+                "icon": "fab fa-facebook-f",
+                "url": "www.facebook.com"
+            },
+            {
+                "icon": "fab fa-instagram",
+                "url": "www.instagram.com"
+            },
+            {
+                "icon": "fab fa-pinterest",
+                "url": "www.pinterest.com"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "url": "www.youtube.com"
+            }
+        ]
+    }
+}

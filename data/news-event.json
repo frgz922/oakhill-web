@@ -1,0 +1,76 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "imgSrc": "/images/event/570/event-1.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Storytelling Workshop 2020",
+            "location": "Product"
+        },
+        {
+            "id": 2,
+            "imgSrc": "/images/event/570/event-1.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Painting Art Contest 2020",
+            "location": "Sales"
+        },
+        {
+            "id": 3,
+            "imgSrc": "/images/event/570/event-1.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "International Art Fair 2020",
+            "location": "Sales"
+        },
+        {
+            "id": 4,
+            "imgSrc": "/images/event/570/event-1.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Consumer Food Safety Education",
+            "location": "Product"
+        },
+        {
+            "id": 5,
+            "imgSrc": "/images/event/370/event5.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Street Performance: Call for Artist",
+            "location": "Client Success"
+        },
+        {
+            "id": 6,
+            "imgSrc": "/images/event/370/event6.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "How meditation improve your mental health?",
+            "location": "Developers"
+        },
+        {
+            "id": 7,
+            "imgSrc": "/images/event/370/event7.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Dialogue for Action on Cancer Screening and Prevention",
+            "location": "Developers"
+        },
+        {
+            "id": 8,
+            "imgSrc": "/images/event/370/event8.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Workout routine and Longevity Meetup",
+            "location": "Product"
+        },
+        {
+            "id": 9,
+            "imgSrc": "/images/event/370/event9.jpg",
+            "alt": "event image",
+            "date": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+            "title": "Learning Counsel Digital Transition Discussion Event – Chicago",
+            "location": " Marketing"
+        }
+    ]
+}
