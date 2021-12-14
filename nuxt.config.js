@@ -111,13 +111,6 @@ export default {
     proxy: true, // Can be also an object with default options
   },
 
-  proxy: {
-    "/cinchy/": {
-      target: "http://35.183.146.63/AssetManagement",
-      pathRewrite: { "^/cinchy/": "" },
-    },
-  },
-
   styleResources: {
     scss: ["~/assets/scss/_variables.scss"],
   },
