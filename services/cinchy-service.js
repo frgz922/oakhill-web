@@ -18,7 +18,7 @@ const getCinchyWebToken = async ($axios) => {
     }
 
     const data = await $axios.$post(
-      "cinchy/CinchySSO/identity/connect/token",
+      "http://35.183.146.63/AssetManagement/CinchySSO/identity/connect/token",
       qs.stringify({
         client_id: "oakhill-web",
         client_secret: "F5B8E17B-CAD5-4002-B188-0E0231FF205F",
@@ -59,7 +59,7 @@ export default ($axios) => ({
       }
       const currentToken = await getCinchyWebToken($axios);
       const queryData = await $axios.$get(
-        `cinchy/Cinchy/API/${prefix}/${queryName}`,
+        `http://35.183.146.63/AssetManagement/Cinchy/API/${prefix}/${queryName}`,
         {
           headers: {
             Authorization: `Bearer ${currentToken}`,
